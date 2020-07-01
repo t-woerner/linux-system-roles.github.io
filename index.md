@@ -111,3 +111,4 @@ example.
 ```
 # ansible-playbook -l TEST.local example-network.yml
 ```
+staging
